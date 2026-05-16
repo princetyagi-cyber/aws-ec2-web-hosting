@@ -21,11 +21,11 @@ Create Ubuntu EC2 instance from AWS Console.
 
 ---
 
-## Step 2 - Connect EC2 using SSH
+## Step 2 - Connect EC2 using PuTTY
 
-Connect instance using SSH.
+Connect AWS EC2 Ubuntu instance using PuTTY SSH client.
 
-![SSH](screenshots/ssh-connect.png)
+![PuTTY](screenshots/putty-connect.png)
 
 ---
 
