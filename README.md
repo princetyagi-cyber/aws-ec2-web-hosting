@@ -63,3 +63,7 @@ Copy public IP and open in browser.
 # Final Result
 
 Website successfully hosted on AWS EC2.
+
+## Live Website
+
+https://princetyagi-cyber.github.io/princetyagi-project-website/ec2-project.html
